@@ -1,0 +1,11 @@
+Paleta de Cores
+#EDEDE9
+#D6CCC2
+#F5EBE0
+#E3D5CA
+#D5BDAF
+
+
+Fontes
+font-family: 'Red Hat Mono', monospace;
+font-family: 'Source Sans Pro', sans-serif;
